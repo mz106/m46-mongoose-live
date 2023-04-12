@@ -19,7 +19,7 @@ Data Requirements
 DB
 
 Book:
-    id: integer 
+    _id: integer 
     title: string   
     author: string
     genre: string
